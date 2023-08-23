@@ -17,6 +17,7 @@ Our explanation of our code, insights, and data visualizations can be found in t
 * What is the relationship between opioid prescription rates and income?
 
 ## Data Visualizations: 
+These are our three data visualizations that we created using various Python libraries such as pandas, NumPy, Plotly, and more. 
 ### Data Visualization 1
 <img width="1352" alt="visualization-1" src="https://github.com/pneo19/ga-opioid-epidemic-project/assets/100004164/a6cc34ed-30ff-4e65-94d1-776194e30f38">
 
@@ -25,6 +26,12 @@ Our explanation of our code, insights, and data visualizations can be found in t
 
 ### Data Visualization 3
 <img width="1213" alt="visualization-3" src="https://github.com/pneo19/ga-opioid-epidemic-project/assets/100004164/933400e7-d2c0-4b9c-93ec-aa785cba2481">
+
+## Graphical User Interface (GUI)
+This is the graphical user interface that we created. Users can select what variables they want to place on the x and y axis and generate an interactive graph.
+
+<img width="1014" alt="gui-1" src="https://github.com/pneo19/ga-opioid-epidemic-project/assets/100004164/edeeb296-e23c-444d-8cf5-79c516286d8b">
+<img width="1014" alt="gui-2" src="https://github.com/pneo19/ga-opioid-epidemic-project/assets/100004164/36f83fc0-d9d1-4e3b-a3a5-d65c6ba2a2e7">
 
 ## Team Members
 Anna Whitford, Neo Pak
